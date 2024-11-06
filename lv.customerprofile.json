@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "66d5bb7d97fc4da6e82710bc"
+  },
+  "customername": "SUDEEP",
+  "AGE": "42",
+  "adress": "Hassan",
+  "phonenumber": "9523147658"
+},
+{
+  "_id": {
+    "$oid": "66d5bd6197fc4da6e82710bd"
+  },
+  "companyname": "TATAmotors",
+  "customername": "sudeep",
+  "carname": "tata tiago",
+  "model": "2023",
+  "madein": "india"
+}]

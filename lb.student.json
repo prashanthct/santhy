@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "66d5b17996972745912710bc"
+  },
+  "name": "yash",
+  "age": "32"
+},
+{
+  "_id": {
+    "$oid": "66d5b27f96972745912710bd"
+  },
+  "name": "range rover",
+  "model": "2021",
+  "price": "2000000",
+  "features": "automatic",
+  "manufacturedby": "TATA MOTORS"
+}]
